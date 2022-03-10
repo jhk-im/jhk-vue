@@ -2,6 +2,7 @@
   "name": "todo",
   "version": "1.0.0",
   "description": "",
+  "author": "",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -11,6 +12,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "express": "^4.17.3",
+    "mongoose": "^6.2.5",
     "nodemon": "^2.0.15"
   }
 }
